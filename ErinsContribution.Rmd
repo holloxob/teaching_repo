@@ -2,15 +2,14 @@
 title: "Erin's Contribution"
 author: "Erin Pan"
 date: "28/10/2020"
-output: 
-	html_document:
-		toc: true
+output: html_document
+
 ---
 
 # This is Erin's Github contribution
 
 This is some text.
 
-##This is a subtitle
+## This is a subtitle
 
 Thanks, Gil
